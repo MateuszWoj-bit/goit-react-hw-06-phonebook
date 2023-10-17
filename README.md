@@ -1,13 +1,9 @@
-# goit-react-hw-06-phonebook
- 
-https://mateuszwoj-bit.github.io/goit-react-hw-06-phonebook/
-
 # Project Summary 📚
 
 - **Name:** 
 - **Version:** 0.1.0
 - **Private:** Yes
-- 🏠 **Homepage:** [GoIT-React-HW-06-Phonebook](https://mateuszwoj-bit.github.io/goit-react-hw-05-movies/)
+- 🏠 **Homepage:** [GoIT-React-HW-06-Phonebook](https://mateuszwoj-bit.github.io/goit-react-hw-06-phonebook/)
 - ✉️ **Contact Creator:** [Email Me](mailto:matwojcikowski@gmail.com)
 
 **Description:** This project is a React application designed to serve as a template or starter kit for React-based homework assignments. It includes various dependencies for testing and development, such as Jest, React Testing Library, and ESLint.
@@ -66,6 +62,6 @@ The project includes various pre-configured scripts that can be executed using n
 The project specifies browser compatibility settings in the `browserslist` section of the package.json file. In production, it targets browsers with a usage of more than 0.2% and excludes any dead or extremely outdated browsers. In development, it targets the latest versions of Chrome, Firefox, and Safari.
 
 6. **Homepage:**
-Access the project's homepage at the following URL: [GoIT-React-HW-05-Movies](https://mateuszwoj-bit.github.io/goit-react-hw-05-movies/)
+Access the project's homepage at the following URL: [GoIT-React-HW-06-Phonebook](https://mateuszwoj-bit.github.io/goit-react-hw-06-phonebook/)
 
 After completing these steps, you'll have the project set up and ready for develpment
