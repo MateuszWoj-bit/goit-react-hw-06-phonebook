@@ -1,6 +1,6 @@
 # Project Summary 📚
 
-- **Name:** 
+- **Name:** React-HW-06-Phonebook
 - **Version:** 0.1.0
 - **Private:** Yes
 - 🏠 **Homepage:** [GoIT-React-HW-06-Phonebook](https://mateuszwoj-bit.github.io/goit-react-hw-06-phonebook/)
